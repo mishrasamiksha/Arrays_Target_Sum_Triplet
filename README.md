@@ -11,3 +11,5 @@ Sample Output: 1, 2 and 7 1, 3 and 6 1, 4 and 5 2, 3 and 5
 
 Explanation: Array = {5, 7, 9, 1, 2, 4, 6 ,8 ,3}. Target number = 10. Find any three number in the given array which sum to target number.
 Concept Used : Basic sorting technique
+
+Language used : cpp
